@@ -57,7 +57,7 @@ React-router-dom, axios osv. som vi gått igenom under lektioner räknas inte.
 
 ## Övrig info
 
-Figma-skissen ger inte en fullständig överblick över hur projektet bör byggas. [Se tillhörande introduktionsfilm]() där det förklaras vilka tolkningar ni kan få lov att göra. (Laddas upp efter genomgången med distansklassen).
+Figma-skissen ger inte en fullständig överblick över hur projektet bör byggas. [Se tillhörande introduktionsfilm]() där det förklaras vilka tolkningar ni kan få lov att göra. (Laddas upp efter genomgången).
 
 ## Resurser
 
